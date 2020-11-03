@@ -1,2 +1,1 @@
-# k8s-auto
-k8s pull镜像加速
+这是一个Docker镜像构建的Dockerfile中转站
