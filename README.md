@@ -1,1 +1,1 @@
-这是一个Docker镜像构建的Dockerfile中转站
+利用阿里云容器镜像服务，依据给定Dockerfile构建k8s镜像。
